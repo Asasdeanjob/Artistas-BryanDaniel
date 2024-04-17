@@ -1,0 +1,17 @@
+body {
+  background-color: #434242;
+  color: white;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+li {
+  font-size: 20px;
+}
+
+img {
+  height: 500px;
+  border: 7.5px solid purple;
+}
